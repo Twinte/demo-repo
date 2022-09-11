@@ -1,2 +1,3 @@
 # demo-repo
-Test repository
+
+Test repository course
